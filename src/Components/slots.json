@@ -1,0 +1,10 @@
+[
+  {"9:00 AM to 10:00 AM": {"booked": false, "details": {}}},
+  {"10:00 AM to 11:00 AM": {"booked": false, "details": {}}},
+  {"11:00 AM to 12:00 PM": {"booked": false, "details": {}}},
+  {"12:00 PM to 1:00 PM": {"booked": false, "details": {}}},
+  {"1:00 PM to 2:00 PM": {"booked": false, "details": {}}},
+  {"2:00 PM to 3:00 PM": {"booked": false, "details": {}}},
+  {"3:00 PM to 4:00 PM": {"booked": false, "details": {}}},
+  {"4:00 PM to 5:00 PM": {"booked": false, "details": {}}}
+]
